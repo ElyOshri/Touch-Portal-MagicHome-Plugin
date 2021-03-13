@@ -22,5 +22,7 @@ For Device ON or OFF state you need to use "On" or "Off".
 
 For RGB background color change or text color change you can use "When Plug-in State changes" and set it to "does not change to" and it the text you need to put "0" for it to work.
 
+• Note: If White Led Is Enabled, You Can't Change The Color Of The Light! So, You Need To Turn Off The White Led Before Changing The Color.
+
 
 Any Donations are welcome at www.paypal.me/ElyOshri 
