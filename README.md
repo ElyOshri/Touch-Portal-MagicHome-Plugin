@@ -24,5 +24,13 @@ For RGB background color change or text color change you can use "When Plug-in S
 
 • Note: If White Led Is Enabled, You Can't Change The Color Of The Light! So, You Need To Turn Off The White Led Before Changing The Color.
 
+## Plugin Settings
+* State Update Delay: The Time It Takes For States To Update.
+* Discover Devices Delay: The Time It Takes To Discover New Devices.
+* Enable Disconnected Devices: If Your Devices Have A Low Connection This Would Keep Them Connected At All Time("On" or "Off").
+* Enable Log: If You Want To Troubleshoot This Would Create A Log("On" or "Off") .
+* Enable Auto Update: If You Want The Plugin To Search For A New Version Every Time It Starts("On" or "Off")
+
+
 
 Any Donations are welcome at www.paypal.me/ElyOshri 
