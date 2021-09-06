@@ -35,6 +35,11 @@ For RGB background color change or text color change you can use "When Plug-in S
 * Enable Log: If You Want To Troubleshoot This Would Create A Log("On" or "Off") .
 * Enable Auto Update: If You Want The Plugin To Search For A New Version Every Time It Starts("On" or "Off")
 
+## Permanent Devices Tutorial
+* To Use Permanent Devices You Will Need To Enable The UI Through The Plugin Settings And Add Your Device Ip In The UI
+* To Find Your Device IP Go To Your MagicHome-Pro Phone App Then Click On `Settings-->Device Manager-->Your Device-->Device Information-->IP address` (Make Sure `Local Network` Is Online) Then Copy The Ip Address To The UI Of The Plugin And Add It
+
+
 
 
 Any Donations are welcome at www.paypal.me/ElyOshri1 
