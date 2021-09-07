@@ -1,7 +1,7 @@
 # Touch-Portal-MagicHome-Plugin
 A Magic-Home Plugin For Touch Portal
 
-[![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/ElyOshri/Touch-Portal-MagicHome-Plugin?include_prereleases&label=Release)](https://github.com/ElyOshri/Touch-Portal-MagicHome-Plugin/releases/tag/v1.2.1)
+[![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/ElyOshri/Touch-Portal-MagicHome-Plugin?include_prereleases&label=Release)](https://github.com/ElyOshri/Touch-Portal-MagicHome-Plugin/releases/tag/v1.3)
 [![Downloads](https://img.shields.io/github/downloads/ElyOshri/Touch-Portal-MagicHome-Plugin/total?label=Downloads)](https://github.com/ElyOshri/Touch-Portal-MagicHome-Plugin/releases)
 [![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.me/ElyOshri1)
 
